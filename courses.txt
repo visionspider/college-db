@@ -1,0 +1,10 @@
+Dynamic AMP::CN-CEA927::5::
+English::CF-OL328::9::
+Javascript::DU-PROG3283::2::
+Physics::SF-COMP437::1::
+Law::LO-COMP8146::12::
+Biochemistry::NC-COMP1971::12::
+Criminal Psychology::NO-TBA::6::
+Nutrition::SA-OEL1005::3::
+Nanoscience::SH-PROG70020::8::
+Environmental Studies::SL-CSDU167::1::
